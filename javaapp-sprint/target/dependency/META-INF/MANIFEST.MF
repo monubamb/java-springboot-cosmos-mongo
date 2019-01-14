@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: javaapp-sprint
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: monub
+Implementation-Vendor-Id: com.sprint
+Spring-Boot-Version: 2.0.4.RELEASE
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.sprint.App
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_192
+Implementation-URL: http://maven.apache.org
+

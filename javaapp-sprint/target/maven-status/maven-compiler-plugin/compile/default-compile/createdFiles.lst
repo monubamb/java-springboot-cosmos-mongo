@@ -1,0 +1,6 @@
+com\sprint\repository\mongodb\MongoAlbumRepository.class
+com\sprint\App.class
+com\sprint\config\MongoConfig.class
+com\sprint\controller\AlbumController.class
+com\sprint\model\Album.class
+com\sprint\repository\AlbumRepositoryPopulator.class

@@ -1,0 +1,11 @@
+spring.jpa.hibernate.ddl=auto-create
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+#spring.data.mongodb.uri=mongodb://osscosmos:z8NqRjbqmwhHqAjjodtXsHQuCSywEa3643JHZmmm7z4djafIF5KKNe9tgZPo88HnOEIrkjEu2WLN0SLThwer9g==@osscosmos.documents.azure.com:10255/?ssl=true&replicaSet=globaldb
+#spring.data.mongodb.uri=mongodb://osscos:2dlco8ykZrOQVTSxb58MPbBCdaHqepYqMkuorXlOcd3Jc6rGMa5et6JlOfoh0ZqizdTvIZV0iuHmKF3STBf8OQ==@osscos.documents.azure.com:10255/?ssl=true&replicaSet=globaldb
+spring.data.mongodb.uri=mongodb://osscosm:QpSQHd5TWoG3r39YL390DONeJY4HrbNiAZb6nE9TB18fDPaIdY95MYYAqqhINsr6m5mRir6BTnJIq7jOvAYh4w==@osscosm.documents.azure.com:10255/?ssl=true&replicaSet=globaldb
+spring.data.mongodb.host=
+spring.data.mongodb.password=
+spring.data.mongodb.username=
+spring.data.mongodb.port=27017
